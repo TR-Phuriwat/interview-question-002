@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xWZ2TYTNKCEG1h8BNIvjsmpQGcYeoNrTtLCvD30hXqc=",
+  "Source": "Example.Backend",
+  "BasePath": "_content/Example.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
